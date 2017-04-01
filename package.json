@@ -1,0 +1,29 @@
+{
+  "name": "json-key-diff",
+  "version": "0.0.1",
+  "description": "diff two JSON object by theirs keys",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://evecalm@github.com/evecalm/json-key-diff.git"
+  },
+  "keywords": [
+    "diff",
+    "json",
+    "diff",
+    "json",
+    "key"
+  ],
+  "author": "Saiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evecalm/json-key-diff/issues"
+  },
+  "homepage": "https://github.com/evecalm/json-key-diff#readme",
+  "dependencies": {
+    "deep-extend": "^0.4.1"
+  }
+}
